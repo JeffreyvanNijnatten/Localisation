@@ -1299,7 +1299,7 @@ STR_1922    :Verder gaan met een opgeslagen spel
 STR_1924    :Afsluiten
 STR_1925    :Kan hier geen persoon plaatsen…
 STR_1926    :{SMALLFONT}
-STR_1927    :{YELLOW}{STRINGID} is kapot gegaan
+STR_1927    :{YELLOW}{STRINGID} heeft een storing
 STR_1928    :{RED}{STRINGID} is neergestort!
 STR_1929    :{RED}{STRINGID} is nog steeds niet gerepareerd{NEWLINE}Controleer waar je monteurs zijn en overweeg ze beter te organiseren
 STR_1930    :Volgen van bezoeker in- of uitschakelen - (Als volgen is ingeschakeld, worden de activiteiten van deze bezoeker vermeld in het berichtengebied)
@@ -2911,7 +2911,7 @@ STR_5590    :Als het park een prijs heeft gekregen
 STR_5591    :Als een marketingcampagne is afgelopen
 STR_5592    :Waarschuwingen over het park
 STR_5593    :Waarschuwingen over de parkwaardering
-STR_5594    :Als een attractie kapot is gegaan
+STR_5594    :Als een attractie een storing heeft
 STR_5595    :Als een attractie is neergestort
 STR_5596    :Waarschuwingen over attracties
 STR_5597    :Als een nieuw type attractie of thema beschikbaar is
